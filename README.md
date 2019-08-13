@@ -6,7 +6,7 @@ The aim of this project is to present simple methods of webscraping. The followi
 2. The decimal point is given by a comma and causes the values to be interpreted as text.
 3. The table on the webpage has a table footer that explains the data, but does not belong to the data points. 
 
-If you want to start an interactive code-session please click:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/r-Files/VPI/master?filepath=VPI.ipynb)
+If you want to start an interactive code-session please click:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smalldatascience/VPI/master?filepath=VPI.ipynb)
 ## Input 
 ![picture of the source webpage](pictures/webpage_input.png?raw=true "Input")
 
